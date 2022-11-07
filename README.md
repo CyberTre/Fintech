@@ -1,4 +1,4 @@
-# Fintech
+# Fintech #
 Fintech Projects
 My name is Treveon Williams. I'm originally from Atlanta, Georgia.
 Ultimately, my career goal is to become a Quantitative Trader. 
